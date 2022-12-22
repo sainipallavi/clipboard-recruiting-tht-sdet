@@ -25,4 +25,8 @@ For easiest way to getting started, extract this project and open it from Intell
 
 Tip: Do remember to update this readme file for anything else that you think needs updating here!
 
+## Execute Test
+
+To execute test, simply Select 'ClipBoardHealthAmazonTest' in Select Run/Debug Configuration and click Run button.
+
 ## Success
